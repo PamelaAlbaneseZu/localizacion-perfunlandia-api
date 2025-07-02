@@ -1,4 +1,3 @@
-# localizacion-perfunlandia-api
 # API de Gestión de Localización - Perfunlandia
 
 Esta API maneja la información de localización (regiones, ciudades, comunas y direcciones) para el proyecto Perfunlandia.
