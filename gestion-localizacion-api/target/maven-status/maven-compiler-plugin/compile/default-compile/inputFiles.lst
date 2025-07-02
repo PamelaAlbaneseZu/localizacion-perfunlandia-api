@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\controller\CiudadController.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\controller\ComunaController.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\controller\RegionController.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\GestionLocalizacionApiApplication.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\models\entities\Ciudad.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\models\entities\Comuna.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\models\entities\Direccion.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\models\entities\Region.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\repositories\CiudadRepository.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\repositories\ComunaRepository.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\repositories\DireccionRepository.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\repositories\RegionRepository.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\services\CiudadService.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\services\ComunaService.java
+C:\Users\Admin\Desktop\Proyecto Perfunlandia\gestion-localizacion-api\src\main\java\com\perfunlandia\gestionlocalizacionapi\services\RegionService.java
